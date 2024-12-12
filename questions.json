@@ -1,0 +1,57 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "What is <br>8,000 + 200 + 10 + 3 in standard form?",
+    "options": [
+      "8,210",
+      "8,200",
+      "8,213",
+      "8,200"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "What is the expanded form of the number 5,678?",
+    "options": [
+      "5,000 + 600 + 70 + 8",
+      "5,000 + 600 + 80 + 7",
+      "5,000 + 600 + 7 + 80",
+      "5,000 + 600 + 70 + 7"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Which of the following is the correct expanded form of 3,450?",
+    "options": [
+      "3,000 + 40 + 50",
+      "3,000 + 4 + 50",
+      "3,000 + 400 + 5",
+      "3,000 + 400 + 50"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4",
+    "question": "What is the standard form of the number <br>7,000 + 200 + 10 + 3?",
+    "options": [
+      "7,203",
+      "7,230",
+      "7,213",
+      "7,320"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Which of the following is the correct expanded form of 9,211?",
+    "options": [
+      "9,000 + 200 + 10 + 1",
+      "9,000 + 100 + 20 + 0",
+      "9,000 + 210 + 0",
+      "9,000 + 20 + 10 + 1"
+    ],
+    "correct": 0
+  }
+]
